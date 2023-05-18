@@ -1,6 +1,6 @@
 # A Tank Game 👾🕹️
 
-
+##Edited by Carlos Almontes, Saul Andrade, and Jonathan Lam
 ### Made by Emmanuel Salcedo, Mario Linares, Michael Rojas
 
 Using [PyGame](https://github.com/pygame/pygame)
